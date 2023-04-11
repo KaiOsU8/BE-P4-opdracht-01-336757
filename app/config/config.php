@@ -5,4 +5,4 @@ define('DB_USER', 'root');
 define('DB_PASS', '');
 //define('DB_NAME', 'mvc-2209a');
 define('DB_NAME', 'mvc-oop-proeftoets');
-define('URLROOT', 'http://mvc-2209a-p4.org');
+define('URLROOT', 'http://www.mvc-oop-opdracht1.org/');

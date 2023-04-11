@@ -20,7 +20,7 @@
             <?= $data['rows']; ?>
         </tbody>
     </table>
-    <a href="http://mvc-2209a.org/">Home</a>
+    <a href="http://www.mvc-oop-opdracht1.org/">Home</a>
 </body>
 </html>
 
